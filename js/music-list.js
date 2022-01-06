@@ -46,6 +46,24 @@ let allMusic = [
       img: "music-6",
       src: "music-6"
     },
+    {
+      name:"Meera ke prabhu",
+      artist:"Sachet parampara",
+      img: "music-7",
+      src: "music-7"
+    },
+    {
+      name:"Baarish",
+      artist:"Payal Dev",
+      img: "music-8",
+      src: "music-8"
+    },
+    {
+      name:"kali kali zulfon",
+      artist:"Madhu sharma",
+      img:"music-9",
+      src:"music-9"
+    },
     // like this paste it and remember to give comma after ending of this bracket }
     // {
     //   name: "Here is the music name",
